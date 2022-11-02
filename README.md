@@ -1,0 +1,1 @@
+# ionicGenerate-QR-Code
